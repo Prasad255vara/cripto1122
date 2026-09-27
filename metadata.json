@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Orbital - Unlocking the Cosmos",
+  "description": "An ultra-premium interactive 3D WebGL space exploration experience featuring real-time orbital mega-structures, cosmic particle nebulae, and interactive interstellar fleet systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
